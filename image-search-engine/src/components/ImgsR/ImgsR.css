@@ -1,0 +1,22 @@
+.img-container-R{
+    width: 353px;
+    height: 440px;
+    text-align: center;
+    box-shadow: 0 0 5px 2px rgb(228, 225, 225);
+}
+
+.img-container-R img{
+    width: 80%;
+    height: 60%;
+    margin-top: 17px ;
+    margin-bottom: 20px;
+    object-fit: cover; 
+}
+
+.text-container-R{
+    margin: 0px 30px;
+}
+
+.text-container-R p{
+    margin-bottom: 5px;
+}
